@@ -1,0 +1,18 @@
+.row .col50 akoho.jpg{
+    height: 450px;
+    width: 600px;
+    position: relative;
+}
+.row{
+    position: relative;
+    width: 100%;
+    display:flex;
+    justify-content: space-between ;
+}
+
+.row .col50{
+    position: relative;
+    width: 100%;
+    justify-content: center;
+    align-items:center ;
+}
